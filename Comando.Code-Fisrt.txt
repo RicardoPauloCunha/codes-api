@@ -1,0 +1,5 @@
+Cria a migração do banco de dados
+Add-Migration Criacao-Banco
+
+Atualiza o banco de dados
+Update-Database

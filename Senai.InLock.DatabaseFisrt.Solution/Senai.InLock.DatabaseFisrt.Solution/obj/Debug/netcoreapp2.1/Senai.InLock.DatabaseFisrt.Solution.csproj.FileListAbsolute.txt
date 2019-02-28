@@ -1,0 +1,14 @@
+C:\Users\50473694808\Desktop\Arquivos\Sprint2\Senai.InLock.DatabaseFisrt.Solution\Senai.InLock.DatabaseFisrt.Solution\bin\Debug\netcoreapp2.1\Senai.InLock.DatabaseFisrt.Solution.deps.json
+C:\Users\50473694808\Desktop\Arquivos\Sprint2\Senai.InLock.DatabaseFisrt.Solution\Senai.InLock.DatabaseFisrt.Solution\bin\Debug\netcoreapp2.1\Senai.InLock.DatabaseFisrt.Solution.runtimeconfig.json
+C:\Users\50473694808\Desktop\Arquivos\Sprint2\Senai.InLock.DatabaseFisrt.Solution\Senai.InLock.DatabaseFisrt.Solution\bin\Debug\netcoreapp2.1\Senai.InLock.DatabaseFisrt.Solution.runtimeconfig.dev.json
+C:\Users\50473694808\Desktop\Arquivos\Sprint2\Senai.InLock.DatabaseFisrt.Solution\Senai.InLock.DatabaseFisrt.Solution\bin\Debug\netcoreapp2.1\Senai.InLock.DatabaseFisrt.Solution.dll
+C:\Users\50473694808\Desktop\Arquivos\Sprint2\Senai.InLock.DatabaseFisrt.Solution\Senai.InLock.DatabaseFisrt.Solution\bin\Debug\netcoreapp2.1\Senai.InLock.DatabaseFisrt.Solution.pdb
+C:\Users\50473694808\Desktop\Arquivos\Sprint2\Senai.InLock.DatabaseFisrt.Solution\Senai.InLock.DatabaseFisrt.Solution\obj\Debug\netcoreapp2.1\Senai.InLock.DatabaseFisrt.Solution.csprojAssemblyReference.cache
+C:\Users\50473694808\Desktop\Arquivos\Sprint2\Senai.InLock.DatabaseFisrt.Solution\Senai.InLock.DatabaseFisrt.Solution\obj\Debug\netcoreapp2.1\Senai.InLock.DatabaseFisrt.Solution.csproj.CoreCompileInputs.cache
+C:\Users\50473694808\Desktop\Arquivos\Sprint2\Senai.InLock.DatabaseFisrt.Solution\Senai.InLock.DatabaseFisrt.Solution\obj\Debug\netcoreapp2.1\Senai.InLock.DatabaseFisrt.Solution.RazorAssemblyInfo.cache
+C:\Users\50473694808\Desktop\Arquivos\Sprint2\Senai.InLock.DatabaseFisrt.Solution\Senai.InLock.DatabaseFisrt.Solution\obj\Debug\netcoreapp2.1\Senai.InLock.DatabaseFisrt.Solution.RazorAssemblyInfo.cs
+C:\Users\50473694808\Desktop\Arquivos\Sprint2\Senai.InLock.DatabaseFisrt.Solution\Senai.InLock.DatabaseFisrt.Solution\obj\Debug\netcoreapp2.1\Senai.InLock.DatabaseFisrt.Solution.AssemblyInfoInputs.cache
+C:\Users\50473694808\Desktop\Arquivos\Sprint2\Senai.InLock.DatabaseFisrt.Solution\Senai.InLock.DatabaseFisrt.Solution\obj\Debug\netcoreapp2.1\Senai.InLock.DatabaseFisrt.Solution.AssemblyInfo.cs
+C:\Users\50473694808\Desktop\Arquivos\Sprint2\Senai.InLock.DatabaseFisrt.Solution\Senai.InLock.DatabaseFisrt.Solution\obj\Debug\netcoreapp2.1\Senai.InLock.DatabaseFisrt.Solution.RazorTargetAssemblyInfo.cache
+C:\Users\50473694808\Desktop\Arquivos\Sprint2\Senai.InLock.DatabaseFisrt.Solution\Senai.InLock.DatabaseFisrt.Solution\obj\Debug\netcoreapp2.1\Senai.InLock.DatabaseFisrt.Solution.dll
+C:\Users\50473694808\Desktop\Arquivos\Sprint2\Senai.InLock.DatabaseFisrt.Solution\Senai.InLock.DatabaseFisrt.Solution\obj\Debug\netcoreapp2.1\Senai.InLock.DatabaseFisrt.Solution.pdb
